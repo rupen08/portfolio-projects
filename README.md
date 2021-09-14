@@ -10,6 +10,7 @@
     <li> Created visualization in tableau including, Sales over the years, Top X Genre of game for selected year using create parameter feature, Nintendo sale over years by calculated field and its contribution on Global sale in %. </li>
   </ul>
 </a>
+<img src="https://drive.google.com/uc?export=view&id=1vnhrRvXUeo6Ng75cWKQEItspZlfowp_B">
 
 <b>
 AtliQ Hardware, India </b><hr>
@@ -21,5 +22,8 @@ AtliQ Hardware, India </b><hr>
     <li> Created visualization in Power BI including establishing STAR schema between tables, cleaning data in transform data, DAX, calculated field (Revenue, Total quantity sale, Total profit margin etc.), conditional formatting. </li>
   </ul>
 </a>
+<img src="https://drive.google.com/uc?export=view&id=14BpjhKYJffWO0heAPTEiogsgamkY1vHF">
+<br>
 
-GO TO PROJECT FOLDER TO SEE THE RELATED FILES.
+
+<b>GO TO PROJECT FOLDER TO SEE THE RELATED FILES. </b>
