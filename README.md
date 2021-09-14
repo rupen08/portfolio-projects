@@ -16,7 +16,7 @@ AtliQ Hardware, India </b><hr>
 
 <a> 
   <ul>
-    <li> Took reference from “codebasics” YouTube channel to get the data. </li>
+    <li> Took reference from <a href="https://www.youtube.com/c/codebasics/featured">codebasics</a> YouTube channel to get the data. </li>
     <li> Performed some queries in MySQL including specifying foreign key between tables, various join operations, group by, order by, limit, count, distinct, sum, and more clauses. </li>
     <li> Created visualization in Power BI including establishing STAR schema between tables, cleaning data in transform data, DAX, calculated field (Revenue, Total quantity sale, Total profit margin etc.), conditional formatting. </li>
   </ul>
