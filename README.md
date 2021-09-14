@@ -10,7 +10,7 @@
     <li> Created visualization in tableau including, Sales over the years, Top X Genre of game for selected year using create parameter feature, Nintendo sale over years by calculated field and its contribution on Global sale in %. </li>
   </ul>
 </a>
-<img src="https://drive.google.com/uc?export=view&id=1vnhrRvXUeo6Ng75cWKQEItspZlfowp_B">
+<img src="https://drive.google.com/uc?export=view&id=1eJKPwoIRxTj3MLhISMqBCsdUch-sHyHV">
 
 <b>
 AtliQ Hardware, India </b><hr>
