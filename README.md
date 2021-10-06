@@ -1,6 +1,6 @@
 # portfolio-projects
 <h2>Data analyst projects</h2>
-<h3><b> AtliQ Hardware, India </b></h3><hr>
+<h3><b> Retail Sales Analysis  </b></h3><hr>
 
 <a> 
   <ul>
