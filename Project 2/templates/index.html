@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+	<meta charset="utf-8">
+	<title>Spam email Detecting Model</title>
+</head>
+
+
+<body>
+
+
+    <header>
+		<div class="container">
+		    <div id="brandname">
+			    Machine Learning App with Flask
+		    </div>
+		<h2>Spam Detector For Emails and Messages!!</h2>
+	    </div>
+	</header>
+
+	<div class="ml-container">
+
+		<form action="{{ url_for('predict')}}" method="POST">
+		<p><b><i>"Enter Your Message Here!"<i><b></p>
+		<textarea name="text_msg" rows="3" cols="80"></textarea>
+		<br><br>
+		<input type="submit" class="btn-info" value="Submit and Predict">	
+	</form>
+	</div>
+
+
+
+</body>
+
+
+</html>

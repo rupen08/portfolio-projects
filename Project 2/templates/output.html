@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Result</title>
+</head>
+
+<body>
+	<header>
+		<div class="container">
+		<h2>Spam Detector For Emails and Messages!!</h2>	
+		</div>
+	</header>
+
+	<p style="color:rgb(8, 0, 6);font-size:20;text-align: center;"><b>Result:</b></p>
+	<div class="results">	
+	{% if prediction == 1%}
+	<h2 style="color:red; text-align: center">Spam</h2>
+	{% elif prediction == 0%}
+	<h2 style="color:blue; text-align: center">Not a Spam</h2>
+	{% endif %}
+	</div>
+
+</body>
+
+</html>
